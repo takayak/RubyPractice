@@ -236,6 +236,7 @@ def point(num_point)
   end
 end
 
+
 num = gets.chomp
 if num[0] == "a"
   puts -1
